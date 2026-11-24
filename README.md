@@ -11,7 +11,7 @@ A lightweight Windows GUI tool for managing `nativePC` mods in Monster Hunter: W
 ## Download & Usage (No Python Required)
 1. Go to the **[Releases](../../releases)** page and download `modmanager.exe`.
 2. Run `modmanager.exe` (if Windows Defender SmartScreen appears, click *More info* -> *Run anyway*).
-3. Select your extracted **Mods Main Directory** and your game's **`nativePC` Directory**.
+3. Select your **Mods Main Directory** and your game's **`nativePC` Directory**.
 4. Select one or more mods from the list and click **Install Selected** or **Uninstall Selected**.
 
 ## Running from Source
