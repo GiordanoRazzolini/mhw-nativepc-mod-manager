@@ -1,0 +1,12 @@
+# PyInstaller & Build Artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Local User Config (so your personal D:\ paths aren't uploaded)
+config.json
